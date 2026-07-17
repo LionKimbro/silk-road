@@ -13,4 +13,5 @@ venv/
 .focus-explorer/
 .pycard/
 .zookeep/
+.silkroad/
 zookeeper-report.json
